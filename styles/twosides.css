@@ -15,7 +15,7 @@ article {
 	}
 
 
-#cougar > p, #lion > p, #tiger > p, h2 {
+#cougar > p, #lion > p, #tiger > p {
 	text-align: center;
 	padding: 30px 40px;
 }
@@ -27,7 +27,9 @@ img {
 
 h2 {
 	margin: auto;
+	padding: 30px 40px;
 }
+
 h1 {
 	float: left;
 }
