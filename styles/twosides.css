@@ -8,10 +8,11 @@ body {
 }
 
 article {
-	width: 600px;
-	background-color: #fff;
-	padding: 20px 40px;
-}
+	width: 50%;
+	padding-left: 20px;
+	margin-left: 50%;
+	padding-top: 20px;
+	}
 
 
 #cougar > p, #lion > p, #tiger > p, h2 {
@@ -24,18 +25,27 @@ img {
 	margin: auto;
 }
 
-h2, article {
+h2 {
 	margin: auto;
 }
 h1 {
 	float: left;
 }
 
+
+
+div {
+	float: left;
+	margin-right: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
 footer {
 	text-align: center;
 	padding: 5px 80px;
+	clear: both;
 }
-
 
 header {
 	margin: 0px;
